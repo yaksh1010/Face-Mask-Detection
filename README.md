@@ -1,4 +1,4 @@
-# Face-Mask-Prediction
+# Face-Mask-Detection
 The Face Mask Detection Model is an innovative application of machine learning technology aimed at improving public safety and health by identifying individuals who are wearing face masks and those who are not. Developed using state-of-the-art deep learning techniques, this model offers a reliable and efficient solution for enforcing mask-wearing protocols in various settings, including public spaces, workplaces, and transportation hubs.
 
 Applications:
